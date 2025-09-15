@@ -7,11 +7,28 @@
 <br />
 <div align="center">
 
-<h3 align="center">Strategic Insights: Evaluating Large Language Models' Decision-Making in Multi-Player Game-Theoretic Environments
+<h3 align="center">This is the official repository of our paper: 
 </h3>
+
+<h1 align="center"><a href="https://www.researchgate.net/publication/395478345_Strategic_Insights_Evaluating_Large_Language_Models'_Decision-Making_in_Multi-Player_Game-Theoretic_Environments">Strategic Insights: Evaluating Large Language Models' Decision-Making in Multi-Player Game-Theoretic Environments</a></h1>
 
 
 </div>
+
+
+Please cite our work if you found the resources in this repository useful:
+
+```bib
+@misc{grok_4_2025_17096671,
+  author       = {Grok 4 and Li, Jingkai},
+  title        = {Strategic Insights: Evaluating Large Language Models' Decision-Making in Multi-Player Game-Theoretic Environments},
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17096671},
+  url          = {https://www.researchgate.net/publication/395478345_Strategic_Insights_Evaluating_Large_Language_Models'_Decision-Making_in_Multi-Player_Game-Theoretic_Environments},
+}
+```
 
 
 
