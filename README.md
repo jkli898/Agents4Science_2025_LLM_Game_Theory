@@ -25,7 +25,7 @@ Please cite our work if you found the resources in this repository useful:
   month        = sep,
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17096671},
+  doi          = {10.5281/zenodo.17359944},
   url          = {https://www.researchgate.net/publication/395478345_Strategic_Insights_Evaluating_Large_Language_Models'_Decision-Making_in_Multi-Player_Game-Theoretic_Environments},
 }
 ```
